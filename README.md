@@ -1,2 +1,2 @@
 # h-template
-vue-ts
+react-ts
