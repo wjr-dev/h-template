@@ -1,2 +1,2 @@
 # h-template
-h-cli模版
+vue-ts
